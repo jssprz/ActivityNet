@@ -13,7 +13,7 @@ This repository is intended to hosts tools and demos for ActivityNet.
 # Do you want to contribute?
 
 1. Check the open issues or open a new issue to start a discussion around your new idea or the bug you found
-2. For the repository and make your changes!
+2. Fork the repository and make your changes!
 3. Send a pull request
 
 [image-cabaf]: http://activity-net.org/challenges/2017/images/fabian.png "Fabian Caba Heilbron"
